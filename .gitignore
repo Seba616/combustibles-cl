@@ -218,3 +218,4 @@ __marimo__/
 .streamlit/secrets.toml
 
 docs/estaciones.json
+docs/WorkflowN8N.json
