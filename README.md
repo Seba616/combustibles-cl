@@ -86,7 +86,7 @@ venv\Scripts\activate          # Windows
 pip install -r requirements.txt
 ```
 
-Creá un archivo `.env` en la raíz con las credenciales de tu propia base de
+Crea un archivo `.env` en la raíz con las credenciales de tu propia base de
 datos PostgreSQL:
 
 ```
