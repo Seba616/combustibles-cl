@@ -219,3 +219,4 @@ __marimo__/
 
 docs/estaciones.json
 docs/WorkflowN8N.json
+test_conexion.py
