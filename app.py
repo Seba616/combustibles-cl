@@ -230,7 +230,7 @@ tab_buscar, tab_historico, tab_region, tab_marca, tab_mapa = st.tabs([
 # ---------- Tab: Buscar la más barata (filtro anidado región > comuna > octanaje) ----------
 with tab_buscar:
     st.header('¿Dónde está más barata?')
-    st.caption('Elegí región, comuna y tipo de combustible para ver las estaciones ordenadas de menor a mayor precio.')
+    st.caption('Elige la región, comuna y tipo de combustible para ver las estaciones ordenadas de menor a mayor precio.')
 
     col_region, col_comuna, col_tipo = st.columns(3)
 
